@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cars>
+    <car>
+        <id>1</id>
+        <year>2001</year>
+        <carName>Mercedes</carName>
+        <color>Red</color>
+    </car>
+    <car>
+        <id>2</id>
+        <year>2000</year>
+        <carName>Subaru</carName>
+        <color>green</color>
+    </car>
+</cars>
